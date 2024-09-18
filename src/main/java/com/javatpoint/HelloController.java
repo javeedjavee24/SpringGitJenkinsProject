@@ -7,6 +7,7 @@ public class HelloController {
 	public String display()
 	{
 		System.out.println("hi");
+		System.out.println("hii");
 		return "index";
 	}	
 }
