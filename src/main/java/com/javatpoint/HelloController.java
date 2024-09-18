@@ -6,6 +6,7 @@ public class HelloController {
 @RequestMapping("/")
 	public String display()
 	{
+		System.out.println("hi");
 		return "index";
 	}	
 }
