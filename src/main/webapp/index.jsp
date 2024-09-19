@@ -2,11 +2,17 @@
 <body>
 <p>Welcome to all</p>
 <h1>Welcome All</h1>
-<form>
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
+<form class="form-inline" action="/action_page.php">
+  <label for="email">Email:</label>
+  <input type="email" id="email" placeholder="Enter email" name="email">
+  <label for="pwd">Password:</label>
+  <input type="password" id="pwd" placeholder="Enter password" name="pswd">
+  <label>
+    <input type="checkbox" name="remember"> Remember me
+  </label>
+  <button type="submit">Submit</button>
+</form>
+
 <h2>Thanks</h2>
 </form
 </body>
