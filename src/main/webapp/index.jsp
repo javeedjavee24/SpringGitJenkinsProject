@@ -9,7 +9,7 @@
   <label for="pwd">Password:</label>
   <input type="password" id="pwd" placeholder="Enter password" name="pswd">
   <label>
-    <input type="checkbox" name="remember"> Remember me
+    <input type="checkbox" name="remember"> Remember me onces
   </label>
   <button type="submit">Submit</button>
 </form>
