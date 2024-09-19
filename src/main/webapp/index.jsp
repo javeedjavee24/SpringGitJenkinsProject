@@ -2,7 +2,7 @@
 <body>
 <p>Welcome to all</p>
 <h1>Welcome All</h1>
-<h2>GIT Jenkins Demo class allll</h2>
+<h2>GIT Jenkins Demo </h2>
 <form class="form-inline" action="/action_page.php">
   <label for="email">Email:</label>
   <input type="email" id="email" placeholder="Enter email" name="email">
